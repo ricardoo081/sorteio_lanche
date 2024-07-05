@@ -25,7 +25,7 @@ def main():
                 st.write(f"- {nome}")
             
             # Exibe o aviso
-            st.warning("Atenção! Não trazer o lanche será considerado um crime contra a humanidade... e você será expulso da sala!")
+            st.warning("Atenção! Não trazer o lanche será considerado um crime... e você será expulso da sala!")
         else:
             st.write("Por favor, insira pelo menos um nome.")
 
